@@ -1,7 +1,7 @@
 # Sales_Predictions
-##Title that recommends an action
-- ###Subtitle describing the analysis
-- ###Author: Deanne Blair
+## Title that recommends an action
+- ### Subtitle describing the analysis
+- ### Author: Deanne Blair
 
 ##Business problem:
 ###Here is where you state the business problem you were trying to solve
